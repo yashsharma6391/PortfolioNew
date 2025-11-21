@@ -68,7 +68,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       // { name: 'Angular', logo: angularLogo },
       // { name: 'Redux', logo: reduxLogo },
-      // { name: 'Next JS', logo: nextjsLogo },
+      { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
     //   { name: 'GSAP', logo: gsapLogo },
     //   { name: 'Material UI', logo: materialuiLogo },
