@@ -52,7 +52,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
 import vidtube from './assets/projects_logo/favicon.png';
-import dhunLogo from './assets/projects_logo/ic_dhun_note.png';
+import dhunLogo from './assets/projects_logo/dhun_logo.png';
 import logo3 from './assets/projects_logo/logo3.png';
    import PM_logo from './assets/projects_logo/PM_logo.jpg';
    import traveling_logo from './assets/projects_logo/traveling_logo.jpg';
