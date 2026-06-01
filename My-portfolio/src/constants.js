@@ -52,6 +52,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
 import vidtube from './assets/projects_logo/favicon.png';
+import dhunLogo from './assets/projects_logo/ic_dhun_note.png';
 import logo3 from './assets/projects_logo/logo3.png';
    import PM_logo from './assets/projects_logo/PM_logo.jpg';
    import traveling_logo from './assets/projects_logo/traveling_logo.jpg';
@@ -228,7 +229,7 @@ export const SkillsInfo = [
         webapp:"https://yashsharma6391.github.io/traveling/"
        },
      {
-      id: 0,
+      id: 3,
       title: "Hexicom Integrated Bridging of Technology & Infrastructure | MENN Stack",
       description:
         "Developed the official website for Hexicom – Integrated Bridging of Technology & Infrastructure using the MERN stack. Built responsive UI, secure backend APIs, and an admin panel with authentication. Delivered the complete project as a freelance developer end-to-end",
@@ -238,7 +239,7 @@ export const SkillsInfo = [
       webapp: "https://www.hexicom.in/",
     },
     {
-      id: 1,
+      id: 4,
       title: "VidTube | MERN Stack",
       description:
         "Built Vidtube, a MERN-based YouTube-style project with video upload, comments, likes/dislikes, and subscriptions. Integrated creative features like a logo that shows the top-viewed video and an animated splash screen to improve UX and showcase UI creativity.",
@@ -247,6 +248,31 @@ export const SkillsInfo = [
       github: "https://github.com/yashsharma6391/VidTube",
       webapp: "https://vid-tube-six.vercel.app/",
     },
+    {
+  id: 5,
+  title: "Dhun Music | Android Music Streaming Platform",
+  description:
+    "Developed Dhun Music, a full-stack Android music streaming and local playback application using Kotlin and Jetpack Compose. Designed the Android client with Clean Architecture (MVVM), Media3/ExoPlayer, Room Database, Hilt, and DataStore. Built and integrated a Python-based backend server with REST APIs for authentication, music streaming, search, playlist management, and channel features. Implemented background playback services, media notifications, local music scanning, and real-time state management using Coroutines and Flow.",
+  image: dhunLogo,
+  tags: [
+  "Kotlin",
+  "Jetpack Compose",
+  "MVVM",
+  "Media3",
+  "ExoPlayer",
+  "Room",
+  "Retrofit",
+  "Hilt",
+  "FastAPI",
+  "Python",
+  "REST API",
+  "JWT Authentication",
+  "Coroutines",
+  "Flow"
+],
+  github: "https://github.com/yashsharma6391/Dhun",
+  webapp: "#"
+},
 //     {
 //       id: 2,
 //       title: "Movie Recommendation App",
