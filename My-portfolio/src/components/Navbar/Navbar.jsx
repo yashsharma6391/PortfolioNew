@@ -65,7 +65,7 @@ const Navbar = () => {
             </ul>
             {/* social media icons */}
             <div className="hidden md:flex space-x-4">
-                <a href="https://github.com/" target="_blank"
+                <a href="https://github.com/yashsharma6391" target="_blank"
                 rel="noopener noreferrer"
                 className="text-grey-300 hover:text-[#8245ec]"
                 >
