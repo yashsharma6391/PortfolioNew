@@ -37,7 +37,7 @@ const About = () => {
               ' Web Developer',
               ' Fullstack Developer',
               'Frontend Developer',
-              'MERN stack Developer'
+              'MERN stack Developer',
               ' App Developer',
               ' UI/UX designer',
               ' Coder',
