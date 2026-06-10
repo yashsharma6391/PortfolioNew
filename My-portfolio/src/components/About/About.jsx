@@ -36,8 +36,8 @@ const About = () => {
               words={[
               ' Web Developer',
               ' Fullstack Developer',
-              'Frontend Developer',
-              'MERN stack Developer',
+              ' Frontend Developer',
+              ' MERN stack Developer',
               ' App Developer',
               ' UI/UX designer',
               ' Coder',
